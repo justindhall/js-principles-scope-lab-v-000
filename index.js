@@ -20,7 +20,9 @@ function overwriteBestCustomer(){
   
 }
 
-function leastFavoriteCustomer(){
+const leastFavoriteCustomer = "pop";
+
+function changeLeastFavoriteCustomer(){
   
   
   
