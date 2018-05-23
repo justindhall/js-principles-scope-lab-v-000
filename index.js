@@ -7,3 +7,4 @@ function upperCaseCustomerName(){
   customerName.toUpperCase();
   
 }
+
